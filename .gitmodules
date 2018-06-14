@@ -1,0 +1,3 @@
+[submodule "project-templates/cdsw-project-template-impyla"]
+	path = project-templates/cdsw-project-template-impyla
+	url = https://github.com/kamir/cdsw-project-template-impyla
